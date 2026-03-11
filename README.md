@@ -19,8 +19,6 @@ new IlliaYershov().greet();
 
 [![Email](https://img.shields.io/badge/Email-illia.yershov%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:illia.yershov@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yershhov)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+39%20351%20534%208377-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/393515348377)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/yershhov)
 
 ## About
 
