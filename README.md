@@ -5,7 +5,7 @@ class IlliaYershov implements FrontendDeveloper {
   name = "Illia Yershov";
   role = "Frontend Developer";
   experience = "5 years";
-  focus = ["React", "Next.js", "Redux", "TypeScript", "JavaScript"];
+  focus = ["React", "TypeScript", "JavaScript", "Next.js", "Redux"];
   location = "Italy";
   languages = ["English", "Italian", "Ukrainian", "Russian"];
 
