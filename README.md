@@ -66,5 +66,5 @@ I'm proficient with modern **AI tools** and actively follow their development. I
 
 ## 🎓 Education
 
-**STATE UNIVERSITY OF INFORMATION AND COMMUNICATION TECHNOLOGIES**  
+[**STATE UNIVERSITY OF INFORMATION AND COMMUNICATION TECHNOLOGIES**](https://duikt.edu.ua/en/)  
 **Bachelor's Degree** in **Computer Science**, 2021 – 2025
