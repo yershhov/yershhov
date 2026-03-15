@@ -5,7 +5,7 @@ class IlliaYershov implements FrontendDeveloper {
   name = "Illia Yershov";
   role = "Frontend Developer";
   experience = "5 years";
-  focus = ["React", "TypeScript", "JavaScript", "Next.js", "Redux"];
+  focus = ["React", "TypeScript", "JavaScript", "Redux", "Next.js"];
   location = "Italy";
   languages = ["English", "Italian", "Ukrainian", "Russian"];
 
@@ -22,9 +22,13 @@ new IlliaYershov().greet();
 
 ## About
 
-Frontend Developer with 5 years of experience. Worked in teams ranging from 2 to 12 people, delivering consistent results in both well-established Agile and very flexible environments. Have over 1 year of experience as a Team Lead in a cross-team setting. Expert in modern Frontend engineering and declarative UI implementation - mainly with React and TypeScript. Experienced in full development lifecycle - from shaping requirements to setting up fully automated delivery of product releases, with CI/CD and unit tests.
+Frontend Developer with 5 years of experience. Worked in teams ranging from 2 to 12 people, delivering consistent results in both well-established Agile and very flexible environments.
 
-I'm proficient with modern AI tools and actively follow their development. In addition to my core expertise, I've recently implemented multiple major features in a legacy PHP (Symfony) codebase, proving I can perform outside my comfortable tech stack, too. I'm passionate about driving business growth with software solutions. Fluent in English and Italian.
+Have over 1 year of experience as a Team Lead in a cross-team setting. Expert in modern Frontend engineering and declarative UI implementation - mainly with React and TypeScript. Experienced in full development lifecycle - from shaping requirements to setting up fully automated delivery of product releases, with CI/CD and unit tests.
+
+I'm proficient with modern AI tools and actively follow their development. In addition to my core expertise, I've recently implemented multiple major features in a legacy PHP (Symfony) codebase, proving I can perform outside my comfortable tech stack, too. I'm passionate about driving business growth with software solutions.
+
+Fluent in English and Italian.
 
 ## Skills
 
@@ -63,5 +67,4 @@ I'm proficient with modern AI tools and actively follow their development. In ad
 ## Education
 
 **STATE UNIVERSITY OF INFORMATION AND COMMUNICATION TECHNOLOGIES**  
-Bachelor's Degree in Computer Science, 2021 – 2025  
-Kyiv, Ukraine
+Bachelor's Degree in Computer Science, 2021 – 2025
