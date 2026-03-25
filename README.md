@@ -24,9 +24,9 @@ new IlliaYershov().greet();
 
 Frontend Developer with **5 years** of experience. Worked in teams ranging from 2 to 12 people, delivering consistent results in both well-established **Agile** and very flexible environments.
 
-Have over **1 year** of experience as a **Team Lead** in a cross-team setting. Expert in modern Frontend engineering and declarative UI implementation - mainly with **React & TypeScript**. Experienced in full development lifecycle - from shaping requirements to setting up fully automated delivery of product releases, with CI/CD and unit tests.
+Owned highly complex features, requiring coordination across multiple teams and system modules. Expert in modern Frontend engineering and declarative UI implementation - mainly with **React & TypeScript**. Experienced in full development lifecycle - from shaping requirements to setting up fully automated delivery of product releases, with CI/CD and unit tests.
 
-I'm proficient with modern **AI tools** and actively follow their development. In addition to my core expertise, I've recently implemented multiple major features in a legacy PHP (Symfony) codebase, proving I can perform outside my comfortable tech stack, too. I'm passionate about driving business growth with software solutions.
+I'm proficient with modern **AI tools** and actively follow their development. In addition to my core expertise, I've recently implemented several features within a legacy PHP (Symfony) codebase, proving I can perform outside my comfortable tech stack, too. I'm passionate about driving business growth with software solutions.
 
 **Fluent in English** and Italian.
 
@@ -40,10 +40,10 @@ I'm proficient with modern **AI tools** and actively follow their development. I
 
 ### ADVISORENGINE — 10/2024 – PRESENT (1.5 YEAR+), Fintech
 
-- Acted as a Developer + **Team Lead** in a team of 7 (3 Frontend, 2 Backend, 2 QA) across multiple major features
-- Led and developed a WYSIWYG PDF report builder with **100%** preview-to-output parity
-- Reduced legacy PHP dependencies with integration of React web components, improving delivery speed and code maintainability
-- Redesigned the Universal Search feature, improving user satisfaction rate **from 80% to 95%**
+- Owned a WYSIWYG PDF report builder with **100%** preview-to-output parity
+- Redesigned the Universal Search feature, improving user satisfaction rate from **80%** to **95%**
+- Increased amount of highly complex custom reports within Performance Reporting from **8** to **17**
+- Reduced reliance on legacy PHP code with integration of React web components, improving delivery speed and code maintainability
 
 **_Technologies_**: React, TypeScript, Material UI, Material React Table, React Router, Jest, React Testing Library, WebSockets, Web Components, Storybook, Node.js, Puppeteer, PHP, Symfony, Twig, AWS, Cursor
 
@@ -60,7 +60,7 @@ I'm proficient with modern **AI tools** and actively follow their development. I
 
 - Integrated in-app surveys, reaching **21.8%** response rate, giving insights for improvement of overall UX and new features adoption
 - Handled multi-language localization, improving global reach across **8+** countries in EU and Americas
-- Implemented real-time device status updates and alerts using WebSockets
+- Implemented real-time device status updates and alerts with WebSockets
 
 **_Technologies_**: React, TypeScript, JavaScript, React Router, SCSS, WebSockets, React Hook Form, i18next
 
