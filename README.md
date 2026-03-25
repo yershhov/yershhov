@@ -22,7 +22,7 @@ new IlliaYershov().greet();
 
 ## 👨‍💻 About
 
-Frontend Developer with **5 years** of experience. Worked in teams ranging from 2 to 12 people, delivering consistent results in both well-established **Agile** and very flexible environments.
+Frontend Developer with **5 years** of experience. Worked in both mature **Agile** setups and dynamic, less formal environments, across teams of 2 to 12 people.
 
 Owned highly complex features, requiring coordination across multiple teams and system modules. Expert in modern Frontend engineering and declarative UI implementation - mainly with **React & TypeScript**. Experienced in full development lifecycle - from shaping requirements to setting up fully automated delivery of product releases, with CI/CD and unit tests.
 
@@ -34,7 +34,7 @@ I'm proficient with modern **AI tools** and actively follow their development. I
 
 **_Frontend_**: React, TypeScript, JavaScript, Redux, Next.js, HTML, CSS, SASS/SCSS, React Router, Material UI, Tailwind CSS, Styled Components, Chakra UI, Jest, React Testing Library, SSR (Server-Side Rendering), Vite, Webpack, Storybook, axios, i18next, React Hook Form, Formik, Redux Thunk, RTK Query, Twig
 
-**_Other_**: Git, REST API, Node.js, Figma, Docker, HTTP, AWS, WebSockets, Linux, Nginx, PHP, Symfony, Puppeteer, Vercel, Supabase, AI, Cursor, Codex, Claude Code, ChatGPT
+**_Other_**: Git, REST API, Node.js, Figma, Docker, HTTP, AWS, WebSockets, Linux, Nginx, PHP, Symfony, Puppeteer, Vercel, Supabase, Cursor, Codex, Claude Code
 
 ## 💼 Experience
 
